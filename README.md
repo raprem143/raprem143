@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LakshmanRoy&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
